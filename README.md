@@ -4,6 +4,9 @@
 
 Tube
 
+Origin
+・setup web from scratch. backgorund when no one knows how to setup webserver.
+
 ・CutCasey add subs
 ・CutBeast
 ・CutTicktock
