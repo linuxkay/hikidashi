@@ -5,7 +5,7 @@
 Tube
 
 Origin
-・setup web from scratch. backgorund when no one knows how to setup webserver.
+・Setup web from scratch. backgorund when no one knows how to setup webserver.
 ・Song that that stop baby crying. poison, takemoto piano 3month to 2 years old. best to play in a car.
 
 ・CutCasey add subs
@@ -14,6 +14,8 @@ Origin
 ・CutFails
 
 Ticktock
+
+Thumbnail arrangements
 
 ## Category
 
